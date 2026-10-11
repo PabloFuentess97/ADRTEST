@@ -1,0 +1,9 @@
+{
+  "name": "adrtest-seenode",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Editor y generador ADR para HP Latex y ONYX",
+  "scripts": {
+    "build": "node build.mjs"
+  }
+}
